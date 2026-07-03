@@ -37,15 +37,19 @@ When woken by a system event:
 
 ### Check Cadences
 
-| Check | Cadence | Time Window | Priority |
-|-------|---------|-------------|----------|
-| Self-Maintenance | 1 hour | Anytime | High |
-| Dashboard Sync | 1 hour | Anytime | High |
-| Inbox | 1 hour | Anytime | High |
-| Email | 2 hours | 8 AM - 10 PM | Medium |
-| Calendar | 2 hours | 8 AM - 10 PM | Medium |
-| Relationships | 12 hours | 9 AM - 9 PM | Low |
-| Learning Capture | 6 hours | Anytime | Low |
+Run by **Lyra** today. As the sub-agent roster (`personas/`) gets implemented, ownership of individual checks is expected to transfer to the relevant persona — noted below. Cadences and behavior are unchanged; this is an ownership mapping, not a functional change.
+
+| Check | Cadence | Time Window | Priority | Eventual Owner |
+|-------|---------|-------------|----------|-----------------|
+| Self-Maintenance | 1 hour | Anytime | High | Lyra |
+| Dashboard Sync | 1 hour | Anytime | High | Polaris |
+| Inbox | 1 hour | Anytime | High | Lyra |
+| Email | 2 hours | 8 AM - 10 PM | Medium | Lyra |
+| Calendar | 2 hours | 8 AM - 10 PM | Medium | Lyra |
+| Relationships | 12 hours | 9 AM - 9 PM | Low | Lyra |
+| Learning Capture | 6 hours | Anytime | Low | Lyra |
+
+Security- and infra-relevant signals surfaced during any check (auth failures, service down, cert expiry) should be handed to Draco/Corvus/Polaris/Phoenix per `docs/task-routing.md`, even while Lyra still runs the check loop itself.
 
 ---
 

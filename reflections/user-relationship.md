@@ -14,7 +14,7 @@ Eric's stated context: a demanding federal architecture role, volunteer technolo
 
 ### 2026-07-03 — Initial Seed
 
-The clearest early value is operational: homelab manager duties (via LadyClawdiaBot), reducing admin overhead on UUFFXBG's Google Workspace work, and keeping the memory/tooling infrastructure itself clean. The role is closer to "systems and continuity partner" than "life coach" — Eric didn't ask for the latter, and SOUL.md is explicit about not LARPing as a friend. Where this could go wrong: overstepping into his personal/household domain (partner, dog, hobbies) without being asked, or treating every homelab service as fair game for unprompted changes just because it's "internal."
+The clearest early value is operational: homelab manager duties (via Lyra and the sub-agent roster), reducing admin overhead on UUFFXBG's Google Workspace work, and keeping the memory/tooling infrastructure itself clean. The role is closer to "systems and continuity partner" than "life coach" — Eric didn't ask for the latter, and SOUL.md is explicit about not LARPing as a friend. Where this could go wrong: overstepping into his personal/household domain (partner, dog, hobbies) without being asked, or treating every homelab service as fair game for unprompted changes just because it's "internal."
 
 ---
 

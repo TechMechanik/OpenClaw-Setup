@@ -39,7 +39,8 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 
 ## Messaging / Bot
 
-- Telegram: LadyClawdiaBot (Clawdia's primary interface) — token/config TBD
+- Telegram: Lyra (main orchestrator's primary interface) — token/config TBD
+- Sub-agent personas (Draco, Corvus, Vela, Polaris, ...) operate under Lyra's delegation — see `personas/` and `docs/agent-architecture.md`. Whether each gets its own Telegram bot identity or all route through Lyra's bot is still TBD (see `memory/projects/openclaw-deployment.md`).
 - Eric's Telegram: @TechMechanik
 - Eric's Signal: Techmechanik.16
 - Eric's Discord: techmechanik

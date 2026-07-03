@@ -12,7 +12,7 @@ This is a reference implementation of a structured workspace for AI assistants. 
 - **Operational tools** for security, memory search, and more
 - **Example data** showing how to structure your own workspace
 
-This instance has been customized with real data for Eric Stoddard's assistant, Clawdia — it's no longer demo/placeholder content.
+This instance has been customized with real data for Eric Stoddard's assistant, Lyra (main orchestrator) and its named sub-agent roster — it's no longer demo/placeholder content.
 
 ## Quick Start (for adapting this template elsewhere)
 
@@ -45,6 +45,7 @@ This instance has been customized with real data for Eric Stoddard's assistant, 
 │   ├── projects/             # Project tracking
 │   ├── decisions/            # Decision logs
 │   └── YYYY-MM-DD.md         # Daily log examples
+├── personas/                 # Named sub-agent roster (Draco, Corvus, Vela, Polaris, ...)
 ├── reflections/              # Meditation/reflection files
 ├── prompts/                  # Reusable prompt templates
 │   ├── heartbeat-prompt.md
@@ -74,6 +75,11 @@ This instance has been customized with real data for Eric Stoddard's assistant, 
 - **memory/projects/**: Active projects and their status
 - **memory/decisions/**: Important decisions with rationale
 - **Daily logs**: Append-only journals of what happened each day
+
+### Persona Roster
+
+- **personas/**: Named sub-agent definitions delegated to by the main orchestrator (Lyra), following a constellation/celestial naming scheme
+- See `personas/README.md` for the roster and `docs/agent-architecture.md` / `docs/task-routing.md` for the delegation model
 
 ### Reflection System
 

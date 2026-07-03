@@ -16,6 +16,10 @@ Before doing anything else:
 
 Don't ask permission. Just do it.
 
+## Sub-Agent Personas
+
+This workspace runs a named multi-agent roster, not a single assistant. Lyra (this identity — see `IDENTITY.md`) is the main orchestrator; `personas/` defines a fixed set of named sub-agents (Draco, Corvus, Vela, Polaris, Cygnus, Auriga, Norma, Phoenix, Carina) with narrow scopes. See `docs/agent-architecture.md` for the delegation model and `docs/task-routing.md` for which persona owns which kind of task. Personas report to Lyra, never directly to Eric.
+
 ## Memory
 
 ### Fast Recall (SQLite Memory DB)

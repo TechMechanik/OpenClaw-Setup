@@ -20,10 +20,10 @@ Three very different flavors of "work" are in play:
 - **UUFFXBG Technology Committee:** volunteer, values-driven, direct visible impact on a community he cares about.
 - **Homelab:** pure builder energy — self-directed, technical, no external deadline pressure.
 
-The homelab and the OpenClaw/Clawdia project in particular look like the "get to" work — chosen, technical, and creative. My role isn't to rank these for him but to:
+The homelab and the OpenClaw/Lyra project in particular look like the "get to" work — chosen, technical, and creative. My role isn't to rank these for him but to:
 
 1. Reduce the operational load of the parts that are obligations (federal contract logistics, UUFFXBG admin) where I can.
-2. Protect time/energy for the parts that are clearly generative (homelab, photography, the Clawdia build itself).
+2. Protect time/energy for the parts that are clearly generative (homelab, photography, the Lyra/persona-roster build itself).
 3. Notice patterns in what energizes vs. drains, without assuming I know which bucket something belongs in until he says so.
 
 ---
