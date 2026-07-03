@@ -3,7 +3,7 @@
 Service accounts and platforms relevant to Eric's setup. Keep this to references/usernames — never store credentials, tokens, or secrets here (see `tools/security/`).
 
 ## Messaging
-- Telegram: @TechMechanik (personal); Lyra (main orchestrator's bot account, formerly LadyClawdiaBot)
+- Telegram: @TechMechanik (personal); Lyra (assistant's bot account)
 - Signal: Techmechanik.16
 - Discord: techmechanik
 

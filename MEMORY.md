@@ -20,7 +20,7 @@ These files contain critical ongoing context. Load at session start.
 
 | Project | Status | Updated | Detail | Triggers |
 |---------|--------|---------|--------|----------|
-| OpenClaw Deployment | Active | 2026-07-03 | [openclaw-deployment.md](memory/projects/openclaw-deployment.md) | openclaw, lyra, personas, telegram, ollama, draco, corvus, vela, polaris |
+| OpenClaw Deployment | Active | 2026-07-03 | [openclaw-deployment.md](memory/projects/openclaw-deployment.md) | openclaw, lyra, telegram, ollama |
 | Linux Desktop Rebuild | Planning | 2026-07-03 | [linux-desktop-rebuild.md](memory/projects/linux-desktop-rebuild.md) | linux, ubuntu, desktop, rebuild |
 | UUFFXBG Technology Committee | Active | 2026-07-03 | [uuffxbg-tech-committee.md](memory/projects/uuffxbg-tech-committee.md) | uuffxbg, google workspace, tech committee |
 | Photography Lens Roadmap | Active | 2026-07-03 | [photography-lens-roadmap.md](memory/projects/photography-lens-roadmap.md) | photography, lens, sony, lightroom |
@@ -54,7 +54,6 @@ These files contain critical ongoing context. Load at session start.
 | docs/agent-architecture.md | Multi-agent architecture |
 | docs/task-routing.md | Delegation rules |
 | docs/morning-brief-template.md | Morning brief structure |
-| personas/README.md | Named sub-agent roster (Draco, Corvus, Vela, Polaris, Cygnus, Auriga, Norma, Phoenix, Carina) |
 
 ## 🗄️ Daily Logs
 Raw daily logs live in `memory/YYYY-MM-DD.md`. These are append-only journals.

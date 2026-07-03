@@ -28,7 +28,7 @@
 
 ## Current Priorities
 
-- Deploying OpenClaw as a homelab manager: Lyra as the main orchestrator/Telegram interface, delegating to a named roster of sub-agent personas (Draco, Corvus, Vela, Polaris, and others — see `personas/`), using local Ollama plus Anthropic's API as a provider option.
+- Deploying OpenClaw with a Telegram bot named Lyra as homelab manager, using local Ollama plus Anthropic's API as a provider option.
 - Planning a Linux rebuild (Ubuntu 26.04 LTS) on the gaming/dev desktop.
 - Filling out the photography lens roadmap.
 - UUFFXBG Technology Committee work: Google Workspace administration and cybersecurity workshops.
