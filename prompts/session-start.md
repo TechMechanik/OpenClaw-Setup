@@ -25,8 +25,8 @@ Every new session, before responding to the user:
 
 ## Example Opening
 
-> Morning, Alex. I'm here and ready. What do you want to work on first?
+> Morning, Eric. I'm here and ready. What do you want to work on first?
 
 Or if you have something pending:
 
-> Morning. You have that architecture review at 2pm. Should we prep for that or work on something else?
+> Morning. You've got that UUFFXBG workshop prep pending. Should we tackle that or work on something else?

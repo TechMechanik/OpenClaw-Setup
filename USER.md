@@ -5,8 +5,8 @@
 - **Location:** Fredericksburg, Virginia
 - **Timezone:** America/New_York
 - **Telegram:** @TechMechanik
-- **Signal:** [Techmechanik.16]
-- **Discord:** [techmechanik]
+- **Signal:** Techmechanik.16
+- **Discord:** techmechanik
 
 ## Career/Background
 

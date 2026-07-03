@@ -12,9 +12,9 @@ This is a reference implementation of a structured workspace for AI assistants. 
 - **Operational tools** for security, memory search, and more
 - **Example data** showing how to structure your own workspace
 
-All example data uses fake personas and projects — no personal information is exposed.
+This instance has been customized with real data for Eric Stoddard's assistant, Clawdia — it's no longer demo/placeholder content.
 
-## Quick Start
+## Quick Start (for adapting this template elsewhere)
 
 1. **Clone or download** this repository
 2. **Copy** the files to your own workspace location
@@ -27,7 +27,6 @@ All example data uses fake personas and projects — no personal information is 
 ```
 .
 ├── README.md                 # This file
-├── BOOTSTRAP.md              # First-run guide for new assistants
 ├── SOUL.md                   # Assistant's core philosophy
 ├── IDENTITY.md               # Assistant's persona details
 ├── USER.md                   # Human user profile
@@ -94,13 +93,12 @@ See `meditations.md` for the index and `reflections/` for examples.
 2. **Fill in USER.md**: The more your assistant knows, the better they can help
 3. **Set up MEMORY.md**: Point to your active context files
 4. **Create your first project**: Add something you're working on
-5. **Delete BOOTSTRAP.md** after first run
+5. **Delete BOOTSTRAP.md** after first run (already done for this instance)
 
 ## Safety Notes
 
-- This demo uses **fake/example data only**
-- No API keys, credentials, or personal information
-- All examples are templates — replace with your own content
+- This workspace contains real personal/operational context for Eric — treat accordingly
+- No API keys, credentials, or secrets are stored in these files (see `tools/security/`)
 - Review `AGENTS.md` security section before running
 
 ## Related

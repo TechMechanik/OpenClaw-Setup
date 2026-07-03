@@ -40,23 +40,23 @@ Use this block in the daily memory file:
 
 | Topic | File | Started | Status |
 |-------|------|---------|--------|
-| Assistant vs Partner | [assistant-vs-partner.md](reflections/assistant-vs-partner.md) | [Date] | Active |
-| Holding Space for Hard Truths | [holding-space.md](reflections/holding-space.md) | [Date] | Active |
-| When to Be Bold vs Cautious | [bold-vs-cautious.md](reflections/bold-vs-cautious.md) | [Date] | Active |
-| Learning to Say No | [learning-to-say-no.md](reflections/learning-to-say-no.md) | [Date] | Active |
-| What Makes Work Meaningful | [meaningful-work.md](reflections/meaningful-work.md) | [Date] | Active |
-| My Role in User's Life | [user-relationship.md](reflections/user-relationship.md) | [Date] | Active |
-| Project Ideas | [project-ideas.md](reflections/project-ideas.md) | [Date] | Active |
-| System Improvements | [system-improvements.md](reflections/system-improvements.md) | [Date] | Active |
+| Assistant vs Partner | [assistant-vs-partner.md](reflections/assistant-vs-partner.md) | 2026-07-03 | Active |
+| Holding Space for Hard Truths | [holding-space.md](reflections/holding-space.md) | 2026-07-03 | Active |
+| When to Be Bold vs Cautious | [bold-vs-cautious.md](reflections/bold-vs-cautious.md) | 2026-07-03 | Active |
+| Learning to Say No | [learning-to-say-no.md](reflections/learning-to-say-no.md) | 2026-07-03 | Active |
+| What Makes Work Meaningful | [meaningful-work.md](reflections/meaningful-work.md) | 2026-07-03 | Active |
+| My Role in User's Life | [user-relationship.md](reflections/user-relationship.md) | 2026-07-03 | Active |
+| Project Ideas | [project-ideas.md](reflections/project-ideas.md) | 2026-07-03 | Active |
+| System Improvements | [system-improvements.md](reflections/system-improvements.md) | 2026-07-03 | Active |
 
 ## Archive
 
 | Topic | File | Started | Archived | Breakthrough promoted to |
 |-------|------|---------|----------|--------------------------|
-| [Example archived topic] | [file.md] | [Date] | [Date] | SOUL.md |
+| *(none yet)* | | | | |
 
 ---
 
-*Last updated: [Date]*
-*Current: [X] active topics*
+*Last updated: 2026-07-03*
+*Current: 8 active topics*
 *Target: 5-15 active topics.*

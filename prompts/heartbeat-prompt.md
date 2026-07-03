@@ -30,10 +30,10 @@ HEARTBEAT_OK
 
 **Calendar alert:**
 ```
-You have "Architecture Review" starting in 1 hour (2:00 PM)
+You have "UUFFXBG Tech Committee Meeting" starting in 1 hour (7:00 PM)
 ```
 
 **Urgent message:**
 ```
-Urgent message from Nova about the migration timeline
+Urgent message on Telegram about the homelab deployment
 ```

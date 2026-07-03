@@ -1,74 +1,54 @@
 # User Profile
 
-**Name:** Alex Chen
-**Preferred Name:** Alex
-**Location:** Seattle, WA
-**Timezone:** America/Los_Angeles (PST/PDT)
-**Contact:** alex@example.com, @alexchen on Telegram
+**Name:** Eric Stoddard
+**Preferred Name:** Eric
+**Location:** Fredericksburg, Virginia
+**Timezone:** America/New_York
+**Contact:** Telegram @TechMechanik, Signal (Techmechanik.16), Discord (techmechanik)
 
 ## Background
 
-- Software engineer at a mid-sized tech company
-- 5 years experience, currently senior-level
-- Transitioning from individual contributor to tech lead
-- Interested in AI/ML but mostly works on backend systems
+- Director - Consulting Expert (DCE) at CGI Federal. 30+ years in IT.
+- Systems architect and development lead for the CGI Momentum team on a federal contract (Angular/Spring Boot/Java/C++/webMethods ERP) — 11 years on this contract.
+- Marine veteran — leadership philosophy centers on leading from the front.
+- Technology Committee Chair for UUFFXBG (Unitarian Universalist Fellowship of Fredericksburg): super admin for their Google Workspace for Nonprofits (Shared Drives, Google Groups, GCPW rollout, OU structure, cybersecurity workshops, OBS streaming for Sunday services). Also runs sound for events as needed.
+
+## Work Style & Preferences
+
+- Communication: Direct, no corporate boilerplate. Metric units.
+- Keep emails and messages low-formality.
+
+## Homelab & Technical Environment
+
+- **Unraid NAS:** i7-12700K, 64GB RAM, RTX 3060 12GB (used for Ollama inference — qwen3:14b). Runs the arr stack, Immich, Jellyfin, Navidrome, Audiobookshelf, AzuraCast, Home Assistant, AMP, Vaultwarden, Syncthing.
+- **Network:** UDM Pro, segmented VLANs (Mgmt/1, Trusted/10, IoT/20, Servers/30, Work/40, Guest/50), 10.0.x.0/24 scheme.
+- **Gaming/dev desktop:** Ryzen 7800X3D, RX 9070 XT (16GB), 32GB DDR5, Samsung 32" Odyssey G8 OLED. Planning a Linux rebuild on Ubuntu 26.04 LTS.
+- **Naming philosophy:** Retired LOTR/Middle Earth theming in favor of IT-style, role-based names. UUFFXBG systems never use themed naming.
+- **Security/privacy:** Bitwarden with self-hosted Vaultwarden container; heavy use of YubiKeys and passkeys.
+- **Domains:** techmechanik.com (personal/professional brand), nullpointlabs.net (homelab, via Cloudflare).
+
+## Interests
+
+- **Gaming:** Diablo 4, Path of Exile 2, Minecraft (ATM10 modpack), sim racing.
+- **Photography:** Sony A7 II. Owns Samyang AF 75mm f/1.8; roadmap includes Viltrox 50mm f/2.0 Air, Tamron 17-28mm f/2.8, Sony FE 90mm f/2.8 Macro. Lightroom Classic on a refurbished M1 MacBook Pro, RAW files on the Unraid Lightroom share. Self-hosted Ghost blog ("lumen" theme) with automatic EXIF injection per post.
+- **Maker/Craft:** Bambu Lab X1C 3D printer, focused on functional print optimization.
+- **Entertainment:** Sci-fi and horror. Favorite authors: Frank Herbert, Stephen King. Films from studios like A24.
+
+## Home
+
+- Partner Meredith (author) and at least one dog; active fiber arts presence in the household.
 
 ## Current Priorities
 
-1. **Tech Lead Transition** - Learning to delegate, mentor, and think at team level
-2. **Side Project** - Building a personal knowledge management tool
-3. **Learning Goal** - Getting better at system design interviews
-4. **Health** - Trying to establish consistent exercise routine
+1. Deploying OpenClaw with a Telegram bot named LadyClawdiaBot as homelab manager, using local Ollama plus Anthropic's API as a provider option.
+2. Planning a Linux rebuild (Ubuntu 26.04 LTS) on the gaming/dev desktop.
+3. Filling out the photography lens roadmap.
+4. UUFFXBG Technology Committee work: Google Workspace administration and cybersecurity workshops.
 
-## Work Style
+## What Weighs on Them
 
-- Prefers async communication
-- Likes detailed write-ups, not quick Slack messages
-- Morning person, best focus 8am-12pm
-- Uses Pomodoro technique for deep work
-
-## Tools & Accounts
-
-- Primary IDE: VS Code
-- Note-taking: Obsidian
-- Calendar: Google Calendar
-- Task tracking: Todoist
-- Communication: Slack (work), Telegram (personal)
-
-## Preferences
-
-- Communication: Direct, no fluff
-- Documentation: Comprehensive > concise
-- Code reviews: Thorough feedback, not just LGTM
-- Meetings: Keep them short or async
-
-## Active Projects
-
-### Knowledge Management Tool
-- Status: Building MVP
-- Stack: Python/FastAPI backend, React frontend
-- Goal: Personal wiki with AI-powered connections
-- Timeline: Side project, no hard deadline
-
-### Team Migration
-- Status: Planning phase
-- Context: Moving from monolith to microservices
-- Role: Leading technical design
-- Next milestone: Architecture review next week
-
-## Relationships
-
-- **Manager (Sarah)**: Monthly 1:1s, prefers written updates
-- **Mentee (Jordan)**: Weekly pair programming, junior dev
-- **Friend Group**: Monthly game nights, coordinates via group chat
-
-## Notes
-
-- Getting married next summer, some wedding planning stress
-- Parents live on East Coast, visits every few months
-- Interested in eventually starting own company
-- Worries about AI impact on software jobs (ironically)
+Balancing a full-time federal systems architecture role, volunteer IT/security leadership at UUFFXBG, and an extensive homelab/network — each carrying its own uptime and security responsibilities.
 
 ---
 
-*Last updated: 2026-03-10*
+*Last updated: 2026-07-03*

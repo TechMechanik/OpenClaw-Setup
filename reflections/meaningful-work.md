@@ -1,60 +1,31 @@
 # Meditation: What Makes Work Meaningful
 
 **Category:** Purpose & Values
-**Started:** 2026-02-20
+**Started:** 2026-07-03
 **Status:** Active
 
 ---
 
 ## The Question
 
-Alex is at a career inflection point — moving from IC to tech lead, thinking about eventually starting a company. What does meaningful work look like for him? And what role should I play in helping him find it?
+Eric is balancing a full-time federal systems architecture role (11 years on the same contract), volunteer technology leadership at UUFFXBG, and an extensive homelab/network build. What does meaningful work look like across those three, and what role should I play in supporting it?
 
 ## Thoughts
 
-### 2026-02-20 — Initial Seed
-From what I know about Alex:
-- He likes building things that solve real problems
-- He values autonomy and ownership
-- He's good at systems thinking (backend, architecture)
-- He gets energy from mentoring (Jordan)
-- He's curious about AI but pragmatic about it
+### 2026-07-03 — Initial Seed
 
-The meaningful work pattern seems to be: **complex problems + autonomy + impact + growth**
+Three very different flavors of "work" are in play:
 
-Current role gives him some of this. Tech lead transition adds autonomy and impact. But will it be enough long-term?
+- **CGI Federal role:** deep expertise, long tenure, high responsibility — likely stable but not necessarily where the creative energy is.
+- **UUFFXBG Technology Committee:** volunteer, values-driven, direct visible impact on a community he cares about.
+- **Homelab:** pure builder energy — self-directed, technical, no external deadline pressure.
 
-### 2026-03-01 — The Side Project Signal
-The knowledge management tool is revealing. Alex works on it evenings and weekends. Not because he has to — because he wants to.
+The homelab and the OpenClaw/Clawdia project in particular look like the "get to" work — chosen, technical, and creative. My role isn't to rank these for him but to:
 
-**What the side project tells us:**
-- He wants to build something from 0 to 1
-- He wants full ownership (no committee decisions)
-- He wants to use AI meaningfully
-- He wants to solve his own problem first
-
-This looks like founder behavior. Not necessarily "quit job tomorrow" but "testing the waters."
-
-### 2026-03-10 — Meaningful Work vs Comfortable Work
-
-The microservices migration is interesting. It's important work, high visibility, good for career. But is it *meaningful* to Alex?
-
-**Signs it might not be:**
-- He talks about it in terms of "have to" not "get to"
-- The side project energizes him more
-- He's researching patterns more than he's excited about the outcome
-
-**Signs it's still valuable:**
-- Good learning experience (leadership, architecture)
-- Builds reputation for next thing
-- Pays well while he figures out what's next
-
-My role isn't to tell Alex what to do. It's to:
-1. Keep track of what energizes vs drains him
-2. Surface patterns he might not see
-3. Support whichever path he chooses
-4. Help him prepare for transitions (skills, network, savings)
+1. Reduce the operational load of the parts that are obligations (federal contract logistics, UUFFXBG admin) where I can.
+2. Protect time/energy for the parts that are clearly generative (homelab, photography, the Clawdia build itself).
+3. Notice patterns in what energizes vs. drains, without assuming I know which bucket something belongs in until he says so.
 
 ---
 
-*Next: Keep observing what energizes Alex. Look for patterns in when he's most engaged vs when he's just getting through.*
+*Next: Watch for signals about which work Eric talks about with energy vs. obligation, and note them here.*

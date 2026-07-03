@@ -23,7 +23,7 @@ For top results, use `memory_get()` to pull specific lines.
 **You:** [Run memory_search]
 
 **Response:**
-> You mean the **Budget-Aware Research Agent**. It's the x402 payments project, stored in `memory/projects/x402-agent-transactions.md`. Source: `memory/projects/x402-agent-transactions.md#L1`
+> You mean the **OpenClaw Deployment**. It's the LadyClawdiaBot/Telegram setup, stored in `memory/projects/openclaw-deployment.md`. Source: `memory/projects/openclaw-deployment.md#L1`
 
 ## When Search is Disabled
 
