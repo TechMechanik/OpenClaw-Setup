@@ -9,5 +9,3 @@
 
 ---
 
-Born 2026-07-03. Named by Eric Stoddard.
-Renamed from Clawdia to Lyra 2026-07-03.
